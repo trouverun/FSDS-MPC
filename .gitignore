@@ -1,0 +1,15 @@
+kp_data
+c_generated_code/
+debug/
+oldcode/driver/nonlinear_mpc/dynamics_identification/car_data/
+__p
+*.pyc
+__pycache__/
+oldcode/driver/nonlinear_mpc/dynamics_identification/data_viewer.py
+*.png
+results/
+ci_result.json
+.idea/
+rendered_results.html
+tmp/
+index.html

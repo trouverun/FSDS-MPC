@@ -1,0 +1,4 @@
+2023-10-03 22:32:09,745 runner INFO     Starting map TrainingMap with dynamics type dynamic_bicycle
+2023-10-03 22:32:09,772 runner INFO     Starting simulator
+2023-10-03 22:32:19,829 runner INFO     Simulator start ok
+2023-10-03 22:32:19,885 perception INFO     loading pytorch networks
